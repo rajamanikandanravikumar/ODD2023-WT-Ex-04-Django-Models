@@ -1,4 +1,4 @@
-![django models](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-04-Django-Models/assets/145742839/cee0d72b-6990-4e93-ae3b-9612b5765161)# Ex-04-Django-Models
+# Ex-04-Django-Models
 # AIM : 
 
 # STEP 1 :
