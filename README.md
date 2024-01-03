@@ -1,5 +1,8 @@
 # Ex-04-Django-Models
+# Name:Rajamanikandan R
+# Ref no:23013754
 # AIM : 
+To create Django models
 
 # STEP 1 :
 Create django project and app using the following commands:
